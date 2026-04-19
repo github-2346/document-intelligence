@@ -3,7 +3,7 @@
 > AI-powered book knowledge platform with semantic search, RAG-based Q&A, automated scraping.
 
 ## Tech Stack
-
+```
 | Layer | Technology |
 
 | **Backend** | Django 4.2 · Django REST Framework 3.15 |
@@ -17,7 +17,7 @@
 | **Frontend** | Next.js 14 · React 18 · Tailwind CSS 3 |
 | **HTTP Client** | Axios · SWR |
 | **Containerisation** | Docker · Docker Compose |
-
+```
 ---
 
 ## Architecture
